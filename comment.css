@@ -1,0 +1,16 @@
+body{
+  background-color: black;
+  color: #ffff;
+  height: 10000px;
+}
+p{
+  font-size: 25px;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+table{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
